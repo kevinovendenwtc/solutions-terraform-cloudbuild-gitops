@@ -1,1 +1,1 @@
-project="PROJECT_ID"
+project="wtc-data-lake-v2"
